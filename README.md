@@ -1,4 +1,4 @@
-# Panu<3
+# Panu
 Hyvää syntymäpäivää!
 Hi!
 This is a fun little project that I created to celebrate you! It was possible with a given amount of help from Copilot in Python using the Pygame library.
