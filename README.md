@@ -11,6 +11,6 @@ Download all the files.
 Open your command window by writing "cmd" on your Start menu (on Windows) and press enter
 
 
-To start the game, run the following command: "python panu5.py"
+To start the game, run the following command: "python peli.py"
 
 Use the arrow keys to move and space to jump and eat the cakes. After eating 3+1 cakes (I thought 31 pieces of cake would be too much even for you), a message will pop up!
